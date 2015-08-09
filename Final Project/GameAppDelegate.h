@@ -1,0 +1,15 @@
+//
+//  GameAppDelegate.h
+//  Final Project
+//
+//  Created by xy on 5/6/13.
+//  Copyright (c) 2013 xy. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface GameAppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end
